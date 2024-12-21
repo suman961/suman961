@@ -54,7 +54,7 @@ const App = () => {
             <label htmlFor="">favorite</label>
             <input type="checkbox" onClick={Check} />
           </div>
-          <button className="bg-blue-500 text-white p-2 rounded-md hover:bg-blue-400">
+          <button className="bg-blue-600 text-white p-2 rounded-md hover:bg-blue-400">
             Submit
           </button>
         </form>
